@@ -11,7 +11,7 @@ Currently seeking opportunities in:
 - Full Stack Development
 - Frontend Development
 - Software Engineering
-- AI & Machine Learning<!--
+- AI & Machine Learning
 
 ## 🚀 About Me
 
