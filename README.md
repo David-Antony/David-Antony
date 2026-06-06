@@ -77,8 +77,10 @@ A complete blog and campus news platform supporting content publishing and manag
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Antony&show_icons=true&theme=github_dark) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Antony&layout=compact&theme=github_dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Antony&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Antony&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=David-Antony)
 
