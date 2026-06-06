@@ -83,6 +83,13 @@ A complete blog and campus news platform supporting content publishing and manag
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=David-Antony)
 
+## 🏆 Highlights
+
+- Built and deployed Full Stack MERN applications
+- Developed AI/ML healthcare solutions
+- Experience with Computer Vision projects
+- Published live projects using Render, Hugging Face, and Vercel
+
 ## 🤝 Connect With Me
 
 💼 LinkedIn:
