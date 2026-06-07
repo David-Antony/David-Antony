@@ -48,9 +48,7 @@ Hybrid Quantum-Classical Deep Neural Network designed for early detection of Hun
 
 🔗 Live Demo:
 https://davidantony10-huntington-disease-detection.hf.space/
-
 ---
-
 ### 🌱 Plant Care Community
 
 Full Stack community platform helping plant enthusiasts share knowledge and manage plant care information.
@@ -59,9 +57,7 @@ Full Stack community platform helping plant enthusiasts share knowledge and mana
 
 🔗 Live Demo:
 https://plant-care-community.onrender.com/
-
 ---
-
 ### 📰 Uniblog Full Stack
 
 A complete blog and campus news platform supporting content publishing and management.
@@ -83,9 +79,7 @@ A complete blog and campus news platform supporting content publishing and manag
 
 💼 LinkedIn:
 https://www.linkedin.com/in/david-antony-dev/
-
 🌐 Portfolio:
 https://www.davidantony.me/
-
 📧 Email:
 david2712005@gmail.com
