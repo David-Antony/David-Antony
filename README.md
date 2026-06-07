@@ -1,6 +1,6 @@
 **Hi** 👋, I'm David Antony
 
-### Full Stack Developer | MERN Stack Developer | AI & Machine Learning Enthusiast
+### **Full Stack Developer | MERN Stack Developer | AI & Machine Learning Enthusiast**
 
 I am a Computer Science graduate passionate about building scalable web applications and AI-powered solutions.
 
