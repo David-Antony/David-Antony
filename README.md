@@ -77,9 +77,6 @@ A complete blog and campus news platform supporting content publishing and manag
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn:
-https://www.linkedin.com/in/david-antony-dev/
-🌐 Portfolio:
-https://www.davidantony.me/
-📧 Email:
-david2712005@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/david-antony-dev/
+🌐 Portfolio: https://www.davidantony.me/
+📧 Email: david2712005@gmail.com
