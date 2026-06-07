@@ -26,29 +26,22 @@ Currently seeking opportunities in:
 
 ### Languages
 JavaScript • Python • C++ • HTML • CSS
-
 ### Frontend
 React • Bootstrap • Tailwind CSS
-
 ### Backend
 Node.js • Express.js
-
 ### Database
 MongoDB • MySQL
-
 ### AI & ML
 TensorFlow • OpenCV • Scikit-Learn
-
 ### Tools
 Git • GitHub • VS Code • Postman
-
 ### Deployment
 Render • Vercel • Hugging Face
 
 ## 🌟 Featured Projects
 
 ### 🧠 Huntington Disease Detection
-
 Hybrid Quantum-Classical Deep Neural Network designed for early detection of Huntington's Disease using MRI scans.
 
 **Tech Stack:** Python, Deep Learning, Computer Vision
