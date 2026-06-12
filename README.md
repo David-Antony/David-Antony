@@ -23,7 +23,7 @@ Currently seeking opportunities in:
 
 ## 🛠️ Tech Stack
 
-### Languages 
+### Languages : JavaScript • Python • C++ • HTML • CSS
 JavaScript • Python • C++ • HTML • CSS
 ### Frontend
 React • Bootstrap • Tailwind CSS
