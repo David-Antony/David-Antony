@@ -3,7 +3,6 @@
 ### **Full Stack Developer | MERN Stack Developer | AI & Machine Learning Enthusiast**
 
 I am a 🎓Final-Year Computer Science Student passionate about building scalable web applications and AI-powered solutions.
-
 I enjoy working with React, Node.js, MongoDB, Python, Machine Learning, and modern deployment platforms.
 
 Currently seeking opportunities in:
